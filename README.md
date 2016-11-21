@@ -11,4 +11,3 @@ Notes:
 Read the project documentation and follow the guided steps to see what we need to do next
 Remember to add the build path of the hibernateStudent to your hibernateTesting
 Remember to go inside the META folder in the hibernateTesting and edit in your password 
----------------------------
