@@ -4,11 +4,9 @@ hib-proj
 11/21/16 Ben
 Uploaded the hibernate zip file for students
 
-
 Added annotations to the 5 classes
 
 I am not entirely sure if I did it correctly, so please look over it. Thanks.
-
 
 Notes: 
 
