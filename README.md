@@ -4,6 +4,7 @@ hib-proj
 ---
 
 11/23/16 Ben
+
 Edited the entity annotations some more
 
 Completed the Product Services Implementation file
@@ -19,6 +20,7 @@ Notes:
 ---
 
 11/21/16 Ben
+
 Uploaded the hibernate zip file for students
 
 Added annotations to the 5 classes
