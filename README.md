@@ -9,6 +9,8 @@ Edited the entity annotations some more
 
 Completed the Product Services Implementation file
 
+I think there is still an error with the annotations; # of purchase rows ≠ 1000
+
 Notes: 
 
 1. Read the project documentation and follow the guided steps to see what we need to do next
